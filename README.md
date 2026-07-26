@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### [GitHub Pages](ybs15090.github.io)
+### [GitHub Pages](https://ybs15090.github.io/)
 
 <!--
 **ybs15090/ybs15090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
